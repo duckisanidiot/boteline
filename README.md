@@ -1,6 +1,7 @@
 # boteline
 
 [![Build Status](https://travis-ci.com/oatmealine/boteline.svg?branch=master)](https://travis-ci.com/thefoxbot/boteline) [![BCH compliance](https://bettercodehub.com/edge/badge/oatmealine/boteline?branch=master)](https://bettercodehub.com/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Run on Repl.it](https://repl.it/badge/github/oatmealine/boteline)](https://repl.it/github/oatmealine/boteline)
 
 ## how to launch
 
